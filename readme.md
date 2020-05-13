@@ -2,11 +2,11 @@
 
 # Aiport Challenge - JavaScript Edition
 
-[Task](#Task) | [Functional Description](#Functional) | [User Stories](#Stories) |
+[Task](#Task) | [Functional Description](#Functional) | [User Stories](#User) |
 
 ## Task
 
-The taks is to create a simpe JavaScript Airport tested using Jasmine as the testing framework
+The taks is to create a simpe JavaScript Airport tested using Jasmine as the framework
 
 ## <a name="Functional">Functional Description</a>
 
