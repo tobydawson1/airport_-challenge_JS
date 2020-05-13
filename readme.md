@@ -10,4 +10,10 @@ The taks is to create a simpe JavaScript Airport tested using Jasmine as the tes
 
 ## <a name="Functional">Functional Description</a>
 
-* adsadsa
+* Planes can land
+* Planes can take off and confirm it is no longer at airport
+* Prevent landing when full
+* Max capacity can be changed
+* Prevent takeoff and landing when weather is stormy
+
+
